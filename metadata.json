@@ -1,0 +1,6 @@
+{
+  "name": "Youth Skill Development & Internship Finder",
+  "description": "Comprehensive student career platform featuring opportunity discovery, AI skill-gap analysis, curated learning paths, and application pipeline tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
